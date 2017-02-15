@@ -1,1 +1,3 @@
 test
+
+I tested what happens when I clone repo under a different name //date: 16.02.2017
